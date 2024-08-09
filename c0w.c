@@ -15,7 +15,7 @@
 * root
 * [root@server foo]# id
 * uid=0(root) gid=501(foo) groups=501(foo)
-* @KrE80r
+* @n3rdyn3xus
 */
 #include <fcntl.h>
 #include <pthread.h>
