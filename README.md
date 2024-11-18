@@ -2,4 +2,4 @@
 
 Checkout the Website for more details : https://dirtycow.ninja/
 
-Wiki : https://github.com/n3rdyn3xus/dirtyc0w/wiki
+Wiki : https://github.com/n3rdh4x0r/dirtyc0w/wiki
